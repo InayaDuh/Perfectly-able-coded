@@ -1,0 +1,15 @@
+h1{
+    color:aquamarine;
+}
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+img{
+    width:500px;
+}
